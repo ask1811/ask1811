@@ -27,7 +27,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Model engineering college, Kochi
-- 🌱 I’m currently exploring javascript and reactjs to be a full stack web developer 
+- 🌱 I’m currently exploring javascript and Nodejs to be a full stack web developer 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ashwinskumar.mec@gmail.com](mailto:ashwinskumar.mec@gmail.com).
